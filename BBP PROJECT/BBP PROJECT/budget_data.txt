@@ -1,0 +1,7 @@
+Personal Budget Planner Data
+=============================
+Total Categories: 1
+
+Category Name       Budget      Expenses     Remaining
+--------------------------------------------------------
+movie                350.00     320.00     30.00     
